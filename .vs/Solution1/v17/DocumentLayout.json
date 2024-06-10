@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productcommandmicroservice\\repositories\\concretes\\productcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\repositories\\concretes\\productcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productcommandmicroservice\\repositories\\abstracts\\iproductcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\repositories\\abstracts\\iproductcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productcommandmicroservice\\controllers\\productcommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\controllers\\productcommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productquerymicroservice\\repositories\\concretes\\productqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\repositories\\concretes\\productqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C8600F-628B-48EB-9DA0-CDB6D2EB3D80}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E4662-FAEE-486B-8E3D-46557D210303}|ApiGateway\\ApiGateway.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9E4662-FAEE-486B-8E3D-46557D210303}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E4662-FAEE-486B-8E3D-46557D210303}|ApiGateway\\ApiGateway.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E4662-FAEE-486B-8E3D-46557D210303}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productquerymicroservice\\controllers\\productquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\controllers\\productquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\hesen_zc39\\source\\repos\\solution1\\productquerymicroservice\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E960CBB4-A300-42A2-BD26-AACAB37F6A8B}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Program.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Program.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:15:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Program.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Program.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:14:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T16:55:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:53:47.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCommandController.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:46:31.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Repositories\\Abstracts\\IProductCommandRepository.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Repositories\\Abstracts\\IProductCommandRepository.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Repositories\\Abstracts\\IProductCommandRepository.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Repositories\\Abstracts\\IProductCommandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:00:38.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Repositories\\Concretes\\ProductCommandRepository.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Repositories\\Concretes\\ProductCommandRepository.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductCommandMicroService\\Repositories\\Concretes\\ProductCommandRepository.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Repositories\\Concretes\\ProductCommandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:58:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Repositories\\Concretes\\ProductQueryRepository.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Repositories\\Concretes\\ProductQueryRepository.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Repositories\\Concretes\\ProductQueryRepository.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Repositories\\Concretes\\ProductQueryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:05:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductQueryController.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:11:08.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hesen_zc39\\source\\repos\\Solution1\\ProductQueryMicroService\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:04:40.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

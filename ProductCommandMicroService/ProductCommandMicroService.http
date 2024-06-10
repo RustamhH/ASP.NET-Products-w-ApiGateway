@@ -1,0 +1,6 @@
+@ProductCommandMicroService_HostAddress = http://localhost:5051
+
+GET {{ProductCommandMicroService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
